@@ -22,8 +22,8 @@ The repository contains:
     * The evolution of different audio features of the tracks that I listened to.
 
 Created by Păpăluță Vasile (Science_kot) 
-*facebook link: https://www.facebook.com/papaluta.vasile.77 
-*linkedin link: https://www.linkedin.com/in/vasile-păpăluță
-*instagram link: https://www.instagram.com/science_kot/ 
-*e-mail: vpapaluta06@gmail.com vasile.papaluta@isa.utm.md
-*medium: https://vpapaluta06.medium.com/
+* facebook link: https://www.facebook.com/papaluta.vasile.77 
+* linkedin link: https://www.linkedin.com/in/vasile-păpăluță
+* instagram link: https://www.instagram.com/science_kot/ 
+* e-mail: vpapaluta06@gmail.com vasile.papaluta@isa.utm.md
+* medium: https://vpapaluta06.medium.com/
